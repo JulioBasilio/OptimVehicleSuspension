@@ -1,7 +1,5 @@
 # OptimVehicleSuspension
 
-<img src="logo/EPIDEMIC.png" width="50%">
-
 **OptimVehicleSuspension - Optimizing vehicle suspension** This code performs an optimization by Genetic Algorithm in a vehicle suspension considering the comfort and safety of the user. The input simulation was used an irregular road profile.
 The code is structured in 4 files:
 - **Entrada.m**: which is used to randomly get the rough road profile input signal;
